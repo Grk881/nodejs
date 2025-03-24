@@ -10,7 +10,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Hi, All!');
+  res.send('Hi, folks!');
 
 });
  
